@@ -3,7 +3,7 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: Lamborghini392
 Depends: mobilesubstrate
-Filename: debs//com.lambo.snapchatLPM_0.1.1-1_iphoneos-arm.deb
+Filename: debs//com.lambo.snapchatLPM.deb
 Size: 3084
 MD5sum: 8cc5a3025d7a545270d08488cbb9414f
 SHA1: 94a171a0997dfd4af275ba941206ea63436de319
