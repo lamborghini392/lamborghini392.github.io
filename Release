@@ -1,0 +1,9 @@
+Origin: Lamborghini392
+Label: Lamborghini392
+Suite: stable
+Version: 1.0
+Codename: Lamborghini392
+Architectures: iphoneos-arm
+Components: main
+Description: Lamborghini392's Repo
+MD5Sum:
