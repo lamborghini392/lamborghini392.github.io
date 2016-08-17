@@ -1,1 +1,2 @@
-# lamborghini392.github.io
+# List of tweaks I host here:
+- SCAlwaysLowPowerMode
