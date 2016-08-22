@@ -1,7 +1,7 @@
 Package: com.lambo.snapchatLPM
 Version: 0.1.1
 Architecture: iphoneos-arm
-Maintainer: Lamborghini392 <modernwar99@aol.com>
+Maintainer: Lamborghini392
 Depends: mobilesubstrate
 Filename: debs//com.lambo.snapchatLPM.deb
 Size: 3084
@@ -13,3 +13,19 @@ Description: Permanently enable Snapchat's power saving mode by tricking it into
 Author: Lamborghini392
 Depiction: http://lamborghini392.github.io/depic/com.lambo.snapchatLPM/index.html
 Name: SCAlwaysLowPowerMode
+
+Package: com.lambo.ahahahios9
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Lamborghini392
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: debs//com.lambo.ahahahios9.deb
+Size: 2619686
+MD5sum: df269b2908d9fb4409eef4da02b96794
+SHA1: fe33263b20df16dee805410979388a1b2cde141c
+SHA256: 226651d9b0193d207f557423032df9bb6a2181abb2eec1e7ca3f0e838df86169
+Section: Tweaks
+Description: A customizable unlock error alarm inspired by Jurassic Park. Updated with initial support for iOS 9.3.3. Credit goes to Sticktron for original tweak.
+Author: Lamborghini392
+Depiction: http://lamborghini392.github.io/depic/com.lambo.ahahahios9/index.html
+Name: Ah! Ah! Ah!
