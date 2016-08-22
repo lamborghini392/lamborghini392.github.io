@@ -10,7 +10,7 @@ SHA1: 94a171a0997dfd4af275ba941206ea63436de319
 SHA256: c6d5de96e72d0ce33f702e341843207abce5437c38524e68593afbadbc0d5d59
 Section: Tweaks
 Description: Permanently enable Snapchat's power saving mode by tricking it into thinking your device is in Low Power Mode.
-Author: Lamborghini392
+Author: lamborghini392
 Depiction: http://lamborghini392.github.io/depic/com.lambo.snapchatLPM/index.html
 Name: SCAlwaysLowPowerMode
 
@@ -26,6 +26,6 @@ SHA1: fe33263b20df16dee805410979388a1b2cde141c
 SHA256: 226651d9b0193d207f557423032df9bb6a2181abb2eec1e7ca3f0e838df86169
 Section: Tweaks
 Description: A customizable unlock error alarm inspired by Jurassic Park. Updated with initial support for iOS 9.3.3. Credit goes to Sticktron for original tweak.
-Author: Lamborghini392
+Author: Sticktron, lamborghini392
 Depiction: http://lamborghini392.github.io/depic/com.lambo.ahahahios9/index.html
 Name: Ah! Ah! Ah!
