@@ -46,7 +46,7 @@ body {
     height: 100vh;
 }
 /***** Typography *****/
-body, p, a, th, td, li, dl, .form-control { font: normal normal 300 18px/2em 'Fira Sans';}
+body, p, a, th, td, li, dl, .form-control { font: normal normal 100 18px/2em 'Fira Sans';}
 b, strong, dt { font-weight: 400;}
 h1, h2, h3, h4, h5, h6 { line-height: 2em;}
 /***** Material Shadow *****/
@@ -111,7 +111,7 @@ form .checkbox input[type=checkbox] { margin-top: 12px;}
 }
 /***** Template Header *****/
 header.template_header h1 {
-    font: normal normal 200 50px/150px 'Fira Sans', sans-serif;
+    font: normal normal 20 20px/10px 'Fira Sans', sans-serif;
     text-align: center;
     margin-top: 50px;
     color: #fff;
@@ -175,10 +175,10 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
 }
 #templatemo_home h1 {
     margin-top: 20vh;
-    font: normal normal 400 70px/80px 'Fira Sans', sans-serif;
+    font: normal normal 100 40px/80px 'Fira Sans', sans-serif;
 }
 #templatemo_home h2 {
-    font: normal normal 100 36px/40px 'Fira Sans', sans-serif;
+    font: normal normal 100 30px/40px 'Fira Sans', sans-serif;
 }
 #templatemo_home p {
     margin: 50px 0 50px 0;

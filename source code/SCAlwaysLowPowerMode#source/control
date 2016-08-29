@@ -1,0 +1,9 @@
+Package: com.lambo.snapchatLPM
+Name: SCAlwaysLowPowerMode
+Depends: mobilesubstrate
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description: Permanently enable Snapchat's power saving mode by tricking it into thinking your device is in Low Power Mode.
+Maintainer: Lamborghini392
+Author: Lamborghini392
+Section: Tweaks
