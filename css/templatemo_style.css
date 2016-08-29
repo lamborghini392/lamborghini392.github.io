@@ -51,7 +51,7 @@ b, strong, dt { font-weight: 400;}
 h1, h2, h3, h4, h5, h6 { line-height: 2em;}
 /***** Material Shadow *****/
 .shadow-top-down {
-    box-shadow: 0px 8px 8px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.75);
     transition: all .5s;
 }
 .shadow-top-down:hover { box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.25);}
@@ -205,7 +205,7 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     background: #fff;
     height: 63px;
     color: #000;
-    padding: 0;
+    padding: 5;
 }
 /***** Features *****/
 #templatemo_features {
