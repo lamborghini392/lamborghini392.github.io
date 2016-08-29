@@ -223,38 +223,27 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     margin-bottom: 0px;
     margin-top: 0px;
 }
-#templatemo_features .feature-box:hover {
-    padding: 0;
-    color: #fff;
-}
+
 #templatemo_features .feature-box .feature-box-inner {
     box-shadow: inset 0px 0px 0 10px #cecece;
     border-bottom: 10px solid #cecece;
     border-top: 10px solid #cecece;
     transition: all .5s;
     background: #fff;
-    padding: 20px;
+    padding: 60px;
     margin: auto;
 }
-#templatemo_features .feature-box:hover .feature-box-inner {
-    box-shadow: inset 0px 0px 0px 0px #cecece;
-    border-bottom: 10px solid #3d799f;
-    border-top: 10px solid #3d799f;
-    padding: 60px 20px 60px 20px;
-    background: #3399cc;
-}
+
 #templatemo_features .feature-box p {
     max-width: 250px;
-    min-height: 260px;
     line-height: 32px;
-    padding-top: 30px;
     font-size: 18px;
     margin: auto;
 }
 #templatemo_features .feature-box .feature-box-icon {
     border-radius: 0px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 0px;
     font-size: 56px;
     color:#233842;
 }
