@@ -231,6 +231,7 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     transition: all .5s;
     background: #fff;
     padding: 60px;
+    padding-bottom: 100px;
     margin: auto;
 }
 
