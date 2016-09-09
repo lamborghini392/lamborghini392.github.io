@@ -1,5 +1,5 @@
 # List of tweaks I host here:
-- SCAlwaysLowPowerMode - Permanently enable Snapchat's power saving mode.
+- SCAlwaysLowPowerMode - Permanently enable Snapchat's low power mode.
 - NetworkBars (removed due to issues) - Display android-like upload/download bars next to 3G/LTE and WiFi signal bars.
 - Ah! Ah! Ah! Fix for iOS 9 - Awaiting permission to upload from original dev.
 
