@@ -6,7 +6,7 @@
    - v 1.1.2 fixes issue described above
 
 # Tweaks/apps in development/on todo list:
-- PP Patched - Patching version check on PP app to allow those who are unable to rejailbreak after changing system version. Abandoned for now because of signing issues with jailed version of Cydia Substrate.
+- PP Patched - Patches version check on PP app to allow those who are unable to rejailbreak after changing system version. Abandoned for now because of signing issues with jailed version of Cydia Substrate.
 - HotspotBars - Show signal strength and connection type (EDGE, 3G, LTE) of personal hotspot host. ETA unknown.
 - Torch - Flashlight now uses both the amber and white LED, currently researching whether it's possible to add QuickCenter support. ETA next week.
 
